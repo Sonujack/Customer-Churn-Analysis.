@@ -247,18 +247,6 @@ Based on the analysis, here are key recommendations:
    - Enhanced tech support for at-risk customers
    - Proactive outreach to month-to-month contract holders
 
-
----
-
-## 👨‍💻 Author
-
-**Sonu Kumar**
-
-- 📧 Email: sonuk952316@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/sonu-kumar-65ab85255](https://www.linkedin.com/in/sonu-kumar-65ab85255)
-- 🌐 GitHub: [github.com/Sonujack](https://github.com/Sonujack)
-
-
 ---
 
 ## 🔮 Future Enhancements
@@ -274,8 +262,8 @@ Based on the analysis, here are key recommendations:
 ## 📞 Contact
 
 For questions, feedback, or collaboration:
-- 📧 **Email:** sonuk952316@gmail.com
-- 💬 **LinkedIn:** Connect for discussions on data analytics
+- 🔗 LinkedIn: [linkedin.com/in/sonu-kumar-65ab85255](https://www.linkedin.com/in/sonu-kumar-65ab85255)
+- 🌐 GitHub: [github.com/Sonujack](https://github.com/Sonujack)
 
 ---
 
