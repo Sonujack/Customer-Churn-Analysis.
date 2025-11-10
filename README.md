@@ -247,18 +247,6 @@ Based on the analysis, here are key recommendations:
    - Enhanced tech support for at-risk customers
    - Proactive outreach to month-to-month contract holders
 
----
-
-## 📝 Project Structure
-
-```
-telco-churn-analysis/
-│
-├── Telco-Customer-Churn.csv        # Dataset
-├── analysis.ipynb                  # Main Jupyter notebook
-├── README.md                       # Project documentation
-└── images/                         # Visualization outputs (optional)
-```
 
 ---
 
