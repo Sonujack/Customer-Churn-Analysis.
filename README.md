@@ -16,16 +16,6 @@ A comprehensive data analysis project to understand customer churn patterns in a
 - [How to Run](#how-to-run)
   
 ---
-## 📋 Table of Contents
-- [Project Overview](#🎯-project-overview)
-- [Dataset Description](#📚-dataset-description)
-- [Key Findings](#🔍-key-findings)
-- [Installation & Setup](#🛠️-installation--setup)
-- [Analysis Process](#📁-analysis-process)
-- [Visualizations](#📊-visualizations)
-- [Technologies Used](#💻-technologies-used)
-- [How to Run](#🚀-how-to-run)
-
 
 ## 🎯 Project Overview
 
